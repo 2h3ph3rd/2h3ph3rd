@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Francesco, but you can call me 2h3ph3rd!
+### 👋 Hey there! I'm Francesco, but you can call me 2h3ph3rd!
 
 🎓 Currently studying Computer Science Engineering in Milan, Italy at Politecnico.
 
