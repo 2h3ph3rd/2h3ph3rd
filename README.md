@@ -8,6 +8,10 @@
 
 🔒 In my free time, I study cybersecurity and take courses to expand my knowledge in this area.
 
+<a href="https://2h3ph3rd.github.io">
+    <img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/github.png" width="32" />
+</a>
+
 <a href="https://2h3ph3rd.medium.com/">
     <img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/medium.png" width="32" />
 </a>
