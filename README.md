@@ -1,3 +1,7 @@
+<a href="https://www.codewars.com/users/2h3ph3rd">
+    <img src="https://www.codewars.com/users/2h3ph3rd/badges/large" />
+</a>
+
 ### 👋 Hey there! I'm Francesco, but you can call me 2h3ph3rd!
 
 🎓 Currently studying Computer Science Engineering in Milan, Italy at Politecnico.
@@ -19,9 +23,3 @@
 <a href="https://2h3ph3rd.medium.com/">
     <img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/medium.png" width="32" />
 </a>
-
-
-<a href="https://www.codewars.com/users/2h3ph3rd">
-    <img src="https://www.codewars.com/users/2h3ph3rd/badges/large" />
-</a>
-
