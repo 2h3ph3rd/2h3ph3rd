@@ -8,12 +8,6 @@
 
 🔒 In my free time, I study cybersecurity and take courses to expand my knowledge in this area.
 
-<a href="https://www.codewars.com/users/2h3ph3rd">
-    <img src="https://www.codewars.com/users/2h3ph3rd/badges/large" />
-</a>
-
-<br /><br />
-
 <a href="https://2h3ph3rd.github.io">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/github-white.png">
@@ -25,3 +19,10 @@
 <a href="https://2h3ph3rd.medium.com/">
     <img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/medium.png" width="32" />
 </a>
+
+<br /><br />
+
+<a href="https://www.codewars.com/users/2h3ph3rd">
+    <img src="https://www.codewars.com/users/2h3ph3rd/badges/large" />
+</a>
+
