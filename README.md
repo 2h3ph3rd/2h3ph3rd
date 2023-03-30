@@ -20,7 +20,7 @@
     <img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/medium.png" width="32" />
 </a>
 
-<br />
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.codewars.com/users/2h3ph3rd">
     <img src="https://www.codewars.com/users/2h3ph3rd/badges/large" />
