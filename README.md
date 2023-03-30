@@ -12,7 +12,7 @@
     <img src="https://www.codewars.com/users/2h3ph3rd/badges/large" />
 </a>
 
-<br />
+<br /><br />
 
 <a href="https://2h3ph3rd.github.io">
     <picture>
