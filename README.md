@@ -8,7 +8,9 @@
 
 🔒 In my free time, I study cybersecurity and take courses to expand my knowledge in this area.
 
-<img src="https://www.codewars.com/users/2h3ph3rd/badges/large" />
+<a href="https://www.codewars.com/users/2h3ph3rd">
+    <img src="https://www.codewars.com/users/2h3ph3rd/badges/large" />
+</a>
 
 <a href="https://2h3ph3rd.github.io">
     <picture>
