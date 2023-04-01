@@ -1,6 +1,7 @@
 {
   "conventionalCommits.scopes": [
     "social",
-    "badge"
+    "badge",
+    "general"
   ]
 }
