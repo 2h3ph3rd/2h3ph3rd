@@ -1,7 +1,3 @@
-<a href="https://www.codewars.com/users/2h3ph3rd">
-    <img src="https://www.codewars.com/users/2h3ph3rd/badges/large" />
-</a>
-
 ### 👋 Hey there! I'm Francesco, but you can call me 2h3ph3rd!
 
 🎓 Currently studying Computer Science Engineering in Milan, Italy at Politecnico.
@@ -11,6 +7,14 @@
 📚 You can check out some of my university projects in my repositories.
 
 🔒 In my free time, I study cybersecurity and take courses to expand my knowledge in this area.
+
+<a href="https://www.codewars.com/users/2h3ph3rd">
+    <img src="https://www.codewars.com/users/2h3ph3rd/badges/large" />
+</a>
+
+<a href="https://app.hackthebox.com/users/699431">
+    <img src="https://www.hackthebox.com/badge/image/699431" />
+</a>
 
 <a href="https://2h3ph3rd.github.io">
     <picture>
