@@ -30,3 +30,7 @@
 <a href="https://www.codewars.com/users/2h3ph3rd">
     <img src="https://www.codewars.com/users/2h3ph3rd/badges/large" />
 </a>
+
+<a href="https://tryhackme.com/p/5h3p4rd">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/5h3p4rd.png" alt="TryHackMe">
+</a>
