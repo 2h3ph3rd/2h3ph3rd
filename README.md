@@ -32,5 +32,5 @@
 </a>
 
 <a href="https://tryhackme.com/p/5h3p4rd">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/5h3p4rd.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/5h3p4rd.png?force_refresh=1" alt="TryHackMe">
 </a>
