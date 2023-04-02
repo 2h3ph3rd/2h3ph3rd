@@ -32,5 +32,5 @@
 </a>
 
 <a href="https://tryhackme.com/p/5h3p4rd">
-     <script src="https://tryhackme.com/badge/735267"></script>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/5h3p4rd.png" alt="TryHackMe">
 </a>
