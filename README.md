@@ -1,4 +1,19 @@
+<a href="https://www.codewars.com/users/2h3ph3rd">
+    <img src="https://www.codewars.com/users/2h3ph3rd/badges/large" />
+</a>
+
 ### 👋 Hey there! I'm Francesco, but you can call me 2h3ph3rd!
+
+<a href="https://app.hackthebox.com/users/699431">
+    <img src="https://www.hackthebox.com/badge/image/699431" />
+</a>
+
+<a href="https://tryhackme.com/p/5h3p4rd">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/5h3p4rd.png" alt="TryHackMe">
+</a>
+
+<br />
+<br />
 
 🎓 Currently studying Computer Science Engineering in Milan, Italy at Politecnico.
 
@@ -18,19 +33,4 @@
 
 <a href="https://2h3ph3rd.medium.com/">
     <img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/medium.png" width="32" />
-</a>
-
-<br />
-<br />
-
-<a href="https://app.hackthebox.com/users/699431">
-    <img src="https://www.hackthebox.com/badge/image/699431" />
-</a>
-
-<a href="https://www.codewars.com/users/2h3ph3rd">
-    <img src="https://www.codewars.com/users/2h3ph3rd/badges/large" />
-</a>
-
-<a href="https://tryhackme.com/p/5h3p4rd">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/5h3p4rd.png?force_refresh=1" alt="TryHackMe">
 </a>
