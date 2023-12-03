@@ -32,8 +32,8 @@
     <img src="https://www.hackthebox.com/badge/image/699431" />
 </a>
 
-<a href="https://tryhackme.com/p/5h3p4rd">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/5h3p4rd.png?force_reload=1" alt="TryHackMe">
+<a href="https://tryhackme.com/p/2h3ph3rd">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/2h3ph3rd.png" alt="TryHackMe">
 </a>
 
 <br />
