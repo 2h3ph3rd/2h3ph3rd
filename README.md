@@ -8,27 +8,13 @@
 
 🔒 In my free time, I study cybersecurity and take courses to expand my knowledge in this area.
 
-<p>
-    <a href="https://2h3ph3rd.github.io">
-        <img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/github.png" width="32" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://2h3ph3rd.medium.com/">
-        <img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/medium.png" width="32" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://tryhackme.com/p/2h3ph3rd">
-        <img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/thm.png" width="32" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://app.hackthebox.com/profile/699431">
-        <img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/htb.png" width="32" />
-    </a>
-    <!--&nbsp;&nbsp;
-    <a href="https://app.hackthebox.com/profile/699431"> linkedin
-        <img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/htb.png" width="32" />
-    </a>-->
-</p>
+[<img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/github.png" width="32">](https://2h3ph3rd.github.io)
+&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/medium.png" width="32" />](https://2h3ph3rd.medium.com)
+&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/thm.png" width="32" />](https://tryhackme.com/p/2h3ph3rd)
+&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/htb.png" width="32" />](https://app.hackthebox.com/profile/699431)
 
 <a href="https://tryhackme.com/p/2h3ph3rd">
     <img src="https://tryhackme-badges.s3.amazonaws.com/2h3ph3rd.png" alt="TryHackMe Badge" />
