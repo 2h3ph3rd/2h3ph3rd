@@ -22,18 +22,8 @@
 
 <br />
 
-<a href="https://www.codewars.com/users/2h3ph3rd">
-    <img src="https://www.codewars.com/users/2h3ph3rd/badges/large" />
-</a>
-
-<br />
-
-<a href="https://app.hackthebox.com/users/699431">
-    <img src="https://www.hackthebox.com/badge/image/699431" />
-</a>
-
 <a href="https://tryhackme.com/p/2h3ph3rd">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/2h3ph3rd.png" alt="TryHackMe">
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=735267" style='border:none;'></iframe>
 </a>
 
 <br />
