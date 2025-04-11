@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Francesco, but you can call me 2h3ph3rd!
 
-🎓 Currently studying Computer Science Engineering in Milan, Italy at Politecnico.
+🎓 Currently studying Computer Science and Engineering in Milan, Italy at Politecnico.
 
 💻 Passionate about back-end development, I primarily code in Go, but also proficient in Python, Javascript, C, and C++.
 
