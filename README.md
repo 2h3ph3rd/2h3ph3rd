@@ -8,7 +8,9 @@
 
 🔒 In my free time, I study cybersecurity and take courses to expand my knowledge in this area.
 
-[<img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/github.png" width="32">](https://2h3ph3rd.github.io)
+<!-- Add medium articles -->
+
+[<img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/website.png" width="32">](https://2h3ph3rd.github.io)
 &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/medium.png" width="32" />](https://2h3ph3rd.medium.com)
 &nbsp;&nbsp;
