@@ -19,5 +19,5 @@
 [<img src="https://raw.githubusercontent.com/2h3ph3rd/2h3ph3rd/main/htb.png" width="32" />](https://app.hackthebox.com/profile/699431)
 
 <a href="https://tryhackme.com/p/2h3ph3rd">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/2h3ph3rd.png" alt="TryHackMe Badge" />
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=735267" style='border:none;'></iframe>
 </a>
